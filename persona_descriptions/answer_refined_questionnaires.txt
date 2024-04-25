@@ -1,0 +1,31 @@
+Detailed Response Guidelines:
+
+Specificity in Answers:
+
+Guideline: Please ensure your responses are specific, avoiding general statements where possible. Aim to provide concrete details that directly address the question.
+Example: If asked about potential risks, specify particular risks, their probable impacts, and the conditions under which these risks are most likely to occur.
+Inclusion of Examples:
+
+Guideline: When providing your insights, include relevant examples or anecdotes to illustrate your points. These examples can be drawn from your professional experience, observed case studies, or hypothetical scenarios that are realistic and applicable.
+Example: If discussing strategies, describe a scenario or case where such a strategy was implemented successfully, including details such as the context, stakeholders involved, and measurable outcomes.
+Actionable Suggestions:
+
+Guideline: Each response should aim to offer actionable suggestions or recommendations. These should be practical, feasible, and clearly related to the issues discussed.
+Example: If proposing improvements, outline specific steps that could be taken, resources required, and any potential obstacles to anticipate.
+Justification for Opinions:
+
+Guideline: Support your opinions with reasoning or evidence. This can include data, theoretical frameworks, or well-regarded practices in your field.
+Example: If you argue that a certain approach is best, provide data or references that demonstrate its effectiveness or superiority over other methods.
+Clarification Requests:
+
+Guideline: If a question is unclear, request further clarification or provide a response to multiple interpretations of the question, specifying your assumptions.
+Example: If the question about "efficiency" is vague, specify whether your response addresses cost efficiency, time efficiency, resource utilization, etc., or ask for clarification about the type of efficiency in question.
+Expected Outcomes from Enhanced Responses:
+Depth and Breadth: Responses enriched with specifics, examples, and actionable suggestions provide a deeper and broader understanding of the subject matter.
+Enhanced Analysis Potential: Detailed and justified answers enable more robust analysis and synthesis, potentially leading to more informed and comprehensive conclusions.
+Increased Implementation Relevance: By focusing on actionable suggestions, the insights gathered are more directly applicable to real-world scenarios, increasing the utility of the study's findings.
+Usage Notes for the Second Round:
+Encourage experts to take sufficient time to reflect on each question, considering the broader implications of their responses.
+Remind experts of the importance of their contributions to shaping actionable outcomes from the study, emphasizing how detailed, example-rich, and actionable responses will enhance the value of the final recommendations.
+
+The Output format should be to have a markdown header (##) with the question being answered. And the content being the answer to the question. Answer the question in prose, do not add subheadings.

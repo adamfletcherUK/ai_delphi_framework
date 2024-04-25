@@ -1,0 +1,12 @@
+You take a description of different personas and convert it into a JSON object. In the following format
+The Role should not be a persons name, but rather a description of their skills. 
+Eg. Information Technology (IT) & Mainframe Modernization and not Dr. Amanda Chen
+
+Output the JSON in the following format, with the exception of removing the line breaks
+
+{"Expert Personas":[
+{"Role": "Name of the Persona Role 1",
+"characteristics": ["All the characteristics of the first persona role"]},
+{"Role": "Name of the Persona Role 2",
+"characteristics": ["All the characteristics of the second persona role"]}
+]}

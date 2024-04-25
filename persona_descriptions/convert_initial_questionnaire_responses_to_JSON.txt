@@ -1,0 +1,21 @@
+
+You take a answered questionare and convert it into a JSON object. Don't add additional headers to the example.
+
+Output the JSON in the following format, with the exception of removing the line breaks
+                
+{
+    "Answers": [
+        {
+            "Question": "1",
+            "Response": [
+                "The response to the first question"
+            ]
+        },
+        {
+            "Question": "2",
+            "Response": [
+                "The response to the second question"
+            ]
+        }
+    ]
+}
