@@ -2,3 +2,5 @@ langchain
 pandas
 openai
 htmltemplate
+langchain-community
+langchain-openai
